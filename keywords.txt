@@ -1,0 +1,7 @@
+LINEBeacon	KEYWORD1
+start	KEYWORD1
+interval	KEYWORD1
+setBatteryLevel	KEYWORD1
+setPower	KEYWORD1
+LINE_Beacon_ESP32	KEYWORD1
+debug	KEYWORD1
