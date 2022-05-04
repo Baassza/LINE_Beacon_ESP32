@@ -16,9 +16,10 @@ Arduino Library for LINE Simple Beacon work with ESP32
 <img src="https://user-images.githubusercontent.com/30001185/50584877-afe5a900-0ea4-11e9-9130-69c3c893a301.png" />
 <img src="https://user-images.githubusercontent.com/30001185/50584907-e3283800-0ea4-11e9-8f3f-6645e1797785.png" />
 <img src="https://user-images.githubusercontent.com/30001185/50584909-e7545580-0ea4-11e9-97f2-063cfb1bfd8d.png" />
-* Install this library
+
 
 ## Steps
+* Install this library
 * Open examples BeaconSetup
 * Update Hardware ID
 
